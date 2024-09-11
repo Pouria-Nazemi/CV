@@ -3,7 +3,7 @@
 title: Pouria Nazemi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Pouria
@@ -55,7 +55,7 @@ education:
   - area: Bachelor of Computer Engineering
     institution: Ferdowsi University of Mashhad
     date_start: 2020-01-22
-    date_end: Expected on 2025-02-31
+    date_end: 2025-02-31
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -65,8 +65,8 @@ education:
 
   - area: Diploma of Mathematics & physics
     institution: Mobin High School
-    date_start: 2017-09
-    date_end: 2020-05
+    date_start: 2017-09-01
+    date_end: 2020-05-01
     GPA: 19.75/20.00
 
   # - area: BSc Artificial Intelligence
@@ -85,8 +85,8 @@ work:
     company_name: Part Software Group
     company_url: 'https://www.partsoftware.com'
     company_logo: ''
-    date_start: 2023-06
-    date_end: 'Present'
+    date_start: 2023-06-01
+    date_end: ''
     summary: |
       Responsibilities include:
         - Monitoring infrastructure and ensuring system reliability
@@ -122,8 +122,6 @@ skills:
         # description: ''
       - name: Monitoring Tools
         # description: ''
-      - name: Monitoring Tools
-        # description: ''
       - name: Programming Languages
         description: 'Java, Python, Bash'
       - name: Tools
@@ -150,7 +148,7 @@ languages:
   - name: Persian 
     percent: 100
   - name: English
-    percent: Fluent
+    percent: 80
 
 
 # # Awards.
