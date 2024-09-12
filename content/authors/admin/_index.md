@@ -166,12 +166,6 @@ languages:
 ---
 
 ## About Me
-I’m a BSc student at Ferdowsi University of Mashhad with a deep interest in Artificial Intelligence, Machine Learning, and Software Engineering. I’m proud to be ranked 3rd in my cohort, reflecting my commitment to academic excellence.
+I’m a BSc student at Ferdowsi University of Mashhad, currently ranked 3rd in my class, with a strong focus on AI, ML, and Software Engineering. My research includes working on seizure detection using biosignals from the Empatica E4 at Neurosina and classifying Persian documents through OCR, which combines my interests in technology and language.
 
-I’ve had the opportunity to work on exciting research projects, such as seizure detection using biosignals from the Empatica E4 wristband at Neurosina Company. Additionally, I contributed to a project classifying Persian documents through OCR and text classification models, which helped me delve into the fascinating intersection of technology and language.
-
-Alongside my studies, I’ve gained practical experience as an SRE Engineer at Part Software Group, ensuring infrastructure reliability, and as a Data Scientist at Pelekan Company, applying machine learning to sales prediction and invoice analysis.
-
-I’m also passionate about teaching and mentoring. I’ve served as a Teaching Assistant in courses like Artificial Intelligence and Compiler Design, and I mentor high school students through the Cangrow AI program. I even provide guidance on advanced topics like in-kernel networking with eBPF.
-
-Looking ahead, I’m eager to continue my education and deepen my expertise. I believe that my blend of academic knowledge, research, and real-world experience has prepared me well for the challenges and opportunities that lie ahead.
+In addition to my academic work, I’m an SRE Engineer at Part Software Group, where I ensure infrastructure reliability, and a Data Scientist at Pelekan Company, applying ML for sales prediction and invoice analysis. I’m also passionate about teaching, having served as a TA in courses like AI and Compiler Design, and mentoring high school students through the Cangrow AI program. I’m excited to continue my education and explore new opportunities.
