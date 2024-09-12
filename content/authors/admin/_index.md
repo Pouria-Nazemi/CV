@@ -116,7 +116,7 @@ skills:
       - name: Tools/Libraries
         description: 'Git, Docker, ML and DL libraries, LaTeX'
         # percent: 85
-        icon: tools
+        # icon: tools
       - name: Operating Systems
         description: 'Debian-Based distros of GNU/Linux'
         # percent: 70
