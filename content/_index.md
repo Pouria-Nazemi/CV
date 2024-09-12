@@ -124,7 +124,7 @@ sections:
   #       css_style: ""
 
   - block: resume-experience
-    id: Experience
+    id: experience
     content:
       username: admin
     design:
