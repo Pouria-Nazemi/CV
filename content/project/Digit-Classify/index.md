@@ -6,6 +6,6 @@ tags:
   - AI
 ---
 
-Complete analysis to recognize digits (consist of different datasets) with neural nets(cnn), svm, random forest, and their combination to other classifiers (containing full parameter tuning, model architecture designing and full document for each of the phases). The main part is phase 4, that almost all important methods and tricks (regularization techniques, different layer types and network architecture, new loss function) are implemented.
+Conducted a comprehensive analysis for digit recognition using various machine learning techniques, including neural networks (CNN), Support Vector Machines (SVM), Random Forest, and their ensemble combinations. This project demonstrates expertise in comparative machine learning, hyperparameter optimization, and architectural design. Phase 1 involved dataset preprocessing and feature engineering, while Phase 2 focused on implementing individual classifier models. Phase 3 explored ensemble methods and hybrid approaches. Phase 4, the core of the project, delved into advanced techniques, including regularization methods, novel network architectures, and customized loss functions. Each phase was documented thoroughly, detailing methodology, results, and insights gained.
 
 <!--more-->
