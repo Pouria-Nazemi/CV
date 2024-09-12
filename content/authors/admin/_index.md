@@ -41,7 +41,7 @@ profiles:
     url: https://github.com/Pouria-Nazemi
   - icon: brands/linkedin
     url: https://ir.linkedin.com/in/pouria-nazemi-811206125
-  - icon: cv
+  - icon: custom/cv
     url: uploads/resume.pdf
 
 interests:
