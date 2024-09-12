@@ -1,5 +1,5 @@
 ---
-title: Classic Ai Approaches on 2048 Game
+title: Classic AI Approaches on 2048 Game
 date: 2022-10-26
 external_link: https://github.com/Pouria-Nazemi/AI2048/
 tags:
