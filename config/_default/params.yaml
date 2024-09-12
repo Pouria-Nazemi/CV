@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: rose
+  color: cyan
 
 # SEO
 marketing:
@@ -58,4 +58,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  # show_pagination: false
