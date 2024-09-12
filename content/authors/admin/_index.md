@@ -96,10 +96,10 @@ work:
     date_end: ''
     summary: |
       Cources include:
-      - Faundamentals of Artificial Inteligence
-      - Applied Linear Algebra
-      - Compiler Design
-      - Advanced Programming(Java)
+      - Faundamentals of Artificial Inteligence X 3
+      - Applied Linear Algebra X 4
+      - Compiler Design X 2
+      - Advanced Programming(Java) X 1
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -157,14 +157,14 @@ awards:
     # icon: coursera
     summary: |
       Top 0.7% among more than 155000 Participants
-  - title: Datadays anomaly detection challenge
+  - title: Datadays Anomaly Detection Challenge
     date: '2022-08-01'
     awarder: Sharif University of Technology
     # icon: coursera
     summary: |
       - Rank 10th
       - Time series dataset, explored various approaches for anomaly detection, final testing on withheld data and rank teams base on the result.
-  - title: Desktop game making of Cultural and Artistic Competitions
+  - title: Desktop Game Making of Cultural and Artistic Competitions
     date: '2015-02-01'
     awarder: Ministry of Education
     # icon: coursera
