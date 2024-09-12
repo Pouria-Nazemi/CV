@@ -122,28 +122,4 @@ sections:
   #       # Card background color (CSS class)
   #       css_class: "bg-primary-700"
   #       css_style: ""
-
-  - block: resume-experience
-    id: experience2
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-  # - block: resume-awards
-  #   content:
-  #     title: Awards
-  #     username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
 ---
