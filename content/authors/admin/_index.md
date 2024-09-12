@@ -127,11 +127,11 @@ skills:
         # icon: tools
 
 
-languages:
-  - name: Persian
-    percent: 100
-  - name: English
-    percent: 80
+# languages:
+#   - name: Persian
+#     percent: 100
+#   - name: English
+#     percent: 80
 
 
 # Awards.
@@ -140,29 +140,24 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Iranian University Entrance Exam for Bachelor's Degree in Mathematics (Konkur)
-    # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2020-07-01'
     awarder: NOET
     # icon: coursera
     summary: |
       Top 0.7% among more than 155000 Participants
-
- - title: Datadays anomaly detection challenge
-    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Datadays anomaly detection challenge
     date: '2022-08-01'
     awarder: Sharif University of Technology
     # icon: coursera
     summary: |
-      Time series dataset, explored various approaches for anomaly detection, final testing on withheld data and rank teams base on the result.
-
- - title: Desktop game making of Cultural and Artistic Competitions
-    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+      - Time series dataset, explored various approaches for anomaly detection, final testing on withheld data and rank teams base on the result.
+  - title: Desktop game making of Cultural and Artistic Competitions
     date: '2015-02-01'
     awarder: NOET
     # icon: coursera
     summary: |
-     Provincial First Placefor 4 years
-     Making games with Game Maker Studio Engine and programming in JavaScript
+     - Provincial First Placefor 4 years
+     - Making games with Game Maker Studio Engine and programming in JavaScript
 
 #   - title: Blockchain Fundamentals
 #     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
@@ -183,7 +178,6 @@ awards:
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
 ## About Me
 I’m a BSc student at Ferdowsi University of Mashhad, currently ranked 3rd in my class, with a strong focus on AI, ML, and Software Engineering. My research includes working on seizure detection using biosignals from the Empatica E4 at Neurosina and classifying Persian documents through OCR, which combines my interests in technology and language.
 
