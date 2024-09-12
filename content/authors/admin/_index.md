@@ -98,21 +98,21 @@ skills:
         description: 'C, Java, Python, Bash'
         icon: code-bracket
       - name: Machine Learning
-        # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
+        description: 'Deep Learning, Signal Processing, NLP, Classification and Clustering, Data Science'
         # percent: 90
         icon: chart-bar
-      - name: Deep Learning
-        # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
-        # percent: 90
-        icon: chart-bar
-      - name: Data Sciense
-        # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
-        # percent: 90
-        icon: chart-bar
-      - name: NLP
-        # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
-        # percent: 90
-        icon: chart-bar
+      # - name: Deep Learning
+      #   # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
+      #   # percent: 90
+      #   icon: chart-bar
+      # - name: Data Sciense
+      #   # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
+      #   # percent: 90
+      #   icon: chart-bar
+      # - name: NLP
+      #   # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
+      #   # percent: 90
+      #   icon: chart-bar
       - name: Tools/Libraries
         description: 'Git, Docker, ML and DL libraries, LaTeX'
         # percent: 85
@@ -138,14 +138,32 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Neural Networks and Deep Learning
-#     url: https://www.coursera.org/learn/neural-networks-deep-learning
-#     date: '2023-11-25'
-#     awarder: Coursera
-#     icon: coursera
-#     summary: |
-#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+awards:
+  - title: Iranian University Entrance Exam for Bachelor's Degree in Mathematics (Konkur)
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2020-07-01'
+    awarder: NOET
+    # icon: coursera
+    summary: |
+      Top 0.7% among more than 155000 Participants
+
+ - title: Datadays anomaly detection challenge
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2022-08-01'
+    awarder: Sharif University of Technology
+    # icon: coursera
+    summary: |
+      Time series dataset, explored various approaches for anomaly detection, final testing on withheld data and rank teams base on the result.
+
+ - title: Desktop game making of Cultural and Artistic Competitions
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2015-02-01'
+    awarder: NOET
+    # icon: coursera
+    summary: |
+     Provincial First Placefor 4 years
+     Making games with Game Maker Studio Engine and programming in JavaScript
+
 #   - title: Blockchain Fundamentals
 #     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #     date: '2023-07-01'
