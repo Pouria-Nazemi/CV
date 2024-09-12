@@ -93,7 +93,7 @@ work:
     company_url: 'https://www.um.ac.ir'
     company_logo: ''
     date_start: 2022-08-01
-    date_end:''
+    date_end: ''
     summary: |
       Cources include:
       - Faundamentals of Artificial Inteligence
