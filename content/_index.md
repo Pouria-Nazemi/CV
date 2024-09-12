@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "1rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -18,18 +18,18 @@ sections:
     #   button:
     #     text: Download CV
     #     url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: true
+    # design:
+    #   css_class: dark
+    #   background:
+    #     color: black
+    #     image:
+    #       # Add your image background to `assets/media/`.
+    #       filename: stacked-peaks.svg
+    #       filters:
+    #         brightness: 1.0
+    #       size: cover
+    #       position: center
+    #       parallax: false
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
@@ -122,4 +122,27 @@ sections:
   #       # Card background color (CSS class)
   #       css_class: "bg-primary-700"
   #       css_style: ""
+
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  # - block: resume-awards
+  #   content:
+  #     title: Awards
+  #     username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---
