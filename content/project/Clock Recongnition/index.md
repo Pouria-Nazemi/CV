@@ -6,9 +6,7 @@ tags:
   - C Programming
 ---
 
-This program has a dataset which contains 15 photos of every numeral , and by processing them (Crop all of them and resize them into a same dimension) provides one average picture of each numeral and adjust its colors. Then every numeral of the input digital clock photo (which is in black and white) will be cropped and resize and compare with average photos which was produced from the dataset ,and recognize that figure. After recognition an analog clock will start to work from that time.
-
-Besides above function this program can resize every photos and also it can crop multiple photos which are in table form and have white(RGB: 255, 255, 255) background.
+Developed a digital clock recognition system capable of reading analog clocks from images. The project demonstrates expertise in image processing, machine learning, and computer vision techniques. It begins by processing a dataset of numerals, cropping and resizing individual digits to a standard size. These preprocessed templates are then compared to corresponding digits in input black-and-white clock images, facilitating accurate digit recognition. Upon successful recognition, the system triggers an analog clock display from the recognized time. Additionally, the program offers functionalities for general-purpose image resizing and batch cropping of table-form images with white backgrounds, showcasing versatility in image manipulation tasks.
 
 
 <!--more-->

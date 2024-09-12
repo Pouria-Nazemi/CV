@@ -6,6 +6,6 @@ tags:
   - AI
   - Prolog
 ---
-We designed this project as teacher assistants of Fundamental of AI course. The subject is first order logic. Base on a story line students follow instructions and complete and answer each part, at last a Polog version of wampus game has been provided for students to complete.
+Developed an interactive teaching assistant for a Fundamental of AI course, focusing on first-order logic concepts. This project demonstrates expertise in educational technology design and artificial intelligence applications in pedagogy. Students follow a storyline-based learning approach, completing exercises and answering questions related to first-order logic principles. The system culminates in a Prolog version of the Wumpus game, providing hands-on experience with logical reasoning and problem-solving skills.
 
 <!--more-->

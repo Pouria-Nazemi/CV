@@ -1,5 +1,6 @@
 ---
 title: Digit Classify
+date: 2023-10-26
 external_link: https://github.com/Pouria-Nazemi/Computional-Intelligence-Project
 tags:
   - AI

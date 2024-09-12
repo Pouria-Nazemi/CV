@@ -7,6 +7,6 @@ tags:
   - Data Science
 ---
 
-Preprocessing data of heart attack prediction dataset and make a clean dataset for model as it was intended in Data Mining Course.
+Developed a data preprocessing pipeline for a heart attack prediction dataset as part of a Data Mining course. This project demonstrates expertise in data cleaning, feature engineering, and exploratory data analysis. The preprocessing steps included handling missing values, encoding categorical variables, scaling numerical features, and transforming the dataset to meet the requirements for subsequent machine learning models. The cleaned dataset was then prepared for use in predictive modeling tasks, showcasing skills in data preparation for machine learning applications.
 
 <!--more-->

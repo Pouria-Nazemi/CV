@@ -8,6 +8,6 @@ tags:
   - Deep Learning
 ---
 
-Four biosingnals including BVP, ACC, EDA, TEMP are collected by E4 wristband. The data has been labeled by EEG. The purpose was to build a model to get live biosignals and alerts when the patient faces seizure.
+Developed a machine learning model for real-time seizure detection using physiological signals captured by an E4 wristband. The project focuses on building a model to predict seizures in patients based on four biosignals (BVP, ACC, EDA, TEMPerature) collected by the wearable device. This innovative approach combines signal processing, and machine learning to create a potentially life-saving medical device for continuous monitoring and early intervention in epilepsy cases.
 
 <!--more-->

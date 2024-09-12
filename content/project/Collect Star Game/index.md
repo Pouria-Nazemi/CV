@@ -8,6 +8,6 @@ tags:
   - ELK
 ---
 
-A 2.5D Game implemented by java for OOP Course. Containg all principals of Object Oriented Programming
+Developed a 2.5D game titled "Star Collector" as a final project for an Object-Oriented Programming (OOP) course. This project demonstrates expertise in applying OOP principles to create a complex interactive game environment. The game features 2D graphics with pseudo-3D effects, implemented using Java. It incorporates various OOP concepts such as encapsulation, inheritance, polymorphism, and abstraction throughout its design and implementation. Players navigate a 2D world collecting stars while avoiding obstacles, showcasing skills in game mechanics, collision detection, and user interface design.
 
 <!--more-->

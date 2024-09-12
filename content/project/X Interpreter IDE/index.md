@@ -1,13 +1,11 @@
 ---
 title: X Interpreter IDE
-date: 2023-10-26
+# date: 2020-10-26
 external_link: https://github.com/Pouria-Nazemi/X-Interpreter-IDE
 tags:
-  - AI
-  - NLP
-  - ELK
+  - Java Programming
 ---
 
-This is a interpreter of a defined language and also it has it has its own IDE with many features. The android app and telegram bot of this project is also made available.
+Developed a custom programming language interpreter with a feature-rich integrated development environment (IDE), including native Android app and Telegram bot integration. This project showcases skills in software engineering, language design, and interactive development tools, while demonstrating the ability to create innovative programming solutions and integrate various technologies seamlessly.
 
 <!--more-->

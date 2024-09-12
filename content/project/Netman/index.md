@@ -3,11 +3,10 @@ title: Netman-cli
 # date: 2023-10-26
 external_link: https://github.com/Pouria-Nazemi/Netman-cli
 tags:
-  - Python Programming
+  - Bash Programming
   - Linux
 ---
 
-Linux Machine Simple Network Management Wrapper 
-    No matter how much you know about network configuration on linux, it provides user-friendly interface for you to do your needs in the easiest way and check inputs to avoid any missinput configuration.
+Developed a user-friendly network configuration wrapper for Linux systems, designed to simplify complex network management tasks and prevent common misconfigurations. This project showcases expertise in system administration, network protocols, and software engineering by providing an intuitive graphical interface for configuring various network settings, validating user inputs, and automating common network management tasks.
 
 <!--more-->
