@@ -52,7 +52,7 @@ education:
   - area: BSc Computer Engineering
     institution: Ferdowsi University of Mashhad
     date_start: 2020-08-01
-    date_end: 2025-02-31
+    date_end: 2025-02-30
     summary: |
       GPA: 19.01/20.00
 
