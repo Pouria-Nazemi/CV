@@ -156,7 +156,7 @@ awards:
     awarder: NOET
     # icon: coursera
     summary: |
-     - Provincial First Placefor 4 years
+     - Provincial First Place for 4 years
      - Making games with Game Maker Studio Engine and programming in JavaScript
 
 #   - title: Blockchain Fundamentals
