@@ -1,7 +1,7 @@
 ---
 title: Elevator Sheduling
 # date: 2023-10-26
-external_link: {https://github.com/Pouria-Nazemi/Elevator-Scheduling
+external_link: {https://github.com/Pouria-Nazemi/Elevator-Scheduling}
 tags:
   - Python Programming
   - Multi-Thread Programming
