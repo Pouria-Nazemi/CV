@@ -21,15 +21,15 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: Back.jpg
-          filters:
-            brightness: 3.0
-          size: cover
-          position: center
-          parallax: true
+        color: gray
+        # image:
+        #   # Add your image background to `assets/media/`.
+        #   filename: Back.jpg
+        #   filters:
+        #     brightness: 1.0
+        #   size: cover
+        #   position: center
+        #   parallax: true
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
