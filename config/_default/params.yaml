@@ -58,4 +58,4 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  show_pagination: false
+  # show_pagination: false
