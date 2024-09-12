@@ -88,6 +88,18 @@ work:
       - Investigated different models to predict sales (time series forecasting, regression, etc.)
       - Clustering and classifying products and designing a pipeline for predicting the number of sales
       based on book names
+  - position: Teacher Assistant
+    company_name: Ferdowsi University of Mashhad
+    company_url: 'https://www.um.ac.ir'
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end:''
+    summary: |
+      Cources include:
+      - Faundamentals of Artificial Inteligence
+      - Applied Linear Algebra
+      - Compiler Design
+      - Advanced Programming(Java)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -154,7 +166,7 @@ awards:
       - Time series dataset, explored various approaches for anomaly detection, final testing on withheld data and rank teams base on the result.
   - title: Desktop game making of Cultural and Artistic Competitions
     date: '2015-02-01'
-    awarder: NOET
+    awarder: Ministry of Education
     # icon: coursera
     summary: |
      - Provincial First Place for 4 years
