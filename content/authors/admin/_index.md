@@ -52,7 +52,7 @@ education:
   - area: BSc Computer Engineering
     institution: Ferdowsi University of Mashhad
     date_start: 2020-08-01
-    date_end: 2025-02-30
+    date_end: 2025-02-28
     summary: |
       GPA: 19.01/20.00
 
@@ -64,28 +64,29 @@ education:
       GPA: 19.75/20.00
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: SRE Engineer
+    company_name: Part Software Group
+    company_url: 'https://www.partsoftware.com'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-06-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Monitoring infrastructure and ensuring system reliability
+      - Expert in Linux and Docker and Monitoring Tools
+      - Collaborating with the AIOPS and Anomaly Detection of netflow sub-team
+  - position: Data Scientist
+    company_name: Pelekan Company
+    company_url: 'https://www.linkedin.com/company/pelekan/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-02
+    date_start: 2022-06-01
+    date_end: 2023-03-20
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Analyzed data from book distribution company invoices and performed feature engineering
+      - Investigated different models to predict sales (time series forecasting, regression, etc.)
+      - Clustering and classifying products and designing a pipeline for predicting the number of sales
+      based on book names
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
