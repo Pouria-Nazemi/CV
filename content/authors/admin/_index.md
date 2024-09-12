@@ -129,9 +129,9 @@ skills:
 
 languages:
   - name: Persian
-    percent: 100
+    # percent: 100
   - name: English
-    percent: 80
+    # percent: 80
 
 
 # Awards.
