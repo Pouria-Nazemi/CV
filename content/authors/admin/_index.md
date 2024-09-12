@@ -150,6 +150,7 @@ awards:
     awarder: Sharif University of Technology
     # icon: coursera
     summary: |
+      - Rank 10th
       - Time series dataset, explored various approaches for anomaly detection, final testing on withheld data and rank teams base on the result.
   - title: Desktop game making of Cultural and Artistic Competitions
     date: '2015-02-01'
