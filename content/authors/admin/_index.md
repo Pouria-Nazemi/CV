@@ -85,7 +85,7 @@ work:
     summary: |
       - Processed and analyzed biosignal data and developed a model to detect seizures from
       biosignals captured by the Empatica E4 wristband.
-      - Resulted in one Draft (https://www.linkedin.com/posts/pouria-nazemi-811206125_internship-report-activity-7141503190625157120-dBmv?utm_source=share&utm_medium=member_desktop) 
+      - Resulted in one DRAFT (available in projects tab)
   - position: Data Scientist
     company_name: Pelekan Company
     company_url: 'https://www.linkedin.com/company/pelekan/'
