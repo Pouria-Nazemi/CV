@@ -1,6 +1,6 @@
 ---
 title: Seizure detection by biosignals
-date: 2023-10-26
+date: 2023-11-26
 external_link: https://www.linkedin.com/posts/pouria-nazemi-811206125_internship-report-activity-7141503190625157120-dBmv?utm_source=share&utm_medium=member_desktop
 tags:
   - AI

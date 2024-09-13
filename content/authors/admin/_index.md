@@ -83,9 +83,9 @@ work:
     date_start: 2023-07-01
     date_end: '2023-10-01'
     summary: |
-      – Processed and analyzed biosignal data and developed a model to detect seizures from
+      - Processed and analyzed biosignal data and developed a model to detect seizures from
       biosignals captured by the Empatica E4 wristband.
-      - Resulted in one [article](https://www.linkedin.com/posts/pouria-nazemi-811206125_internship-report-activity-7141503190625157120-dBmv?utm_source=share&utm_medium=member_desktop) 
+      - Resulted in one Draft (https://www.linkedin.com/posts/pouria-nazemi-811206125_internship-report-activity-7141503190625157120-dBmv?utm_source=share&utm_medium=member_desktop) 
   - position: Data Scientist
     company_name: Pelekan Company
     company_url: 'https://www.linkedin.com/company/pelekan/'
