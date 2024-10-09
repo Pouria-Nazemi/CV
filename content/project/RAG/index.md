@@ -1,6 +1,6 @@
 ---
 title: PDF Question-Answering System Using LLMs (RAG)
-date: 2024-10-26
+date: 2023-11-20
 external_link: https://github.com/Pouria-Nazemi/RAG-over-Falcon-7b/
 tags:
   - AI
