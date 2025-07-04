@@ -166,21 +166,13 @@ skills:
         description: 'Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Time-Series, Signal Processing, Feature Engineering'
         icon: presentation-chart-line
 
-      - name: Vector Search & Retrieval
-        description: 'FAISS, ChromaDB, Elasticsearch, OpenSearch'
-        icon: database
-
-      - name: Tools & Libraries
-        description: 'Git, Docker, Flask, LaTeX, ML/DL Libraries'
-        icon: tools
+      - name: Tools
+        description: 'Git, Docker, Flask,Django, LaTeX, REST APIs'
+        icon: computer
 
       - name: Infrastructure & Monitoring
         description: 'Prometheus, Grafana, Kibana, Opensearch'
         icon: eye
-
-      - name: Backend & APIs
-        description: 'Django, REST APIs'
-        icon: server
 
       - name: Operating Systems
         description: 'Debian-based GNU/Linux distros'
