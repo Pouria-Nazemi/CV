@@ -65,7 +65,7 @@ education:
       GPA: 19.75/20.00
       
 work:
-  - position: AI/Site Reliabilty Engineer
+  - position: AI/Site Reliability Engineer
     company_name: Part Software Group
     company_url: 'https://www.partsoftware.com'
     company_logo: ''
@@ -242,12 +242,9 @@ awards:
 ---
 ## About Me
 
-I'm a recent graduate in Computer Science from Ferdowsi University of Mashhad with a strong academic and hands-on background in artificial intelligence and machine learning. My work bridges applied research and real-world development, with experience building intelligent systems across domains such as healthcare, network monitoring, and document analysis.
-
+I'm a recent graduate in Computer Engineering from Ferdowsi University of Mashhad with a strong academic and hands-on background in artificial intelligence and machine learning. My work bridges applied research and real-world development, with experience building intelligent systems across domains such as healthcare, network monitoring, and document analysis.
 I’ve contributed to research projects like seizure detection using wearable biosignals at Neurosina and Persian document classification through OCR and language models. In industry, I’ve worked at Part Software Group as a Site Reliability Engineer, helping develop intelligent monitoring tools and leading efforts in anomaly detection. I’ve also applied machine learning to business analytics and sales forecasting at Pelekan Company.
-
 Alongside technical work, I’ve been actively involved in teaching and mentorship — serving as a teaching assistant in AI and Linear Algebra, and mentoring students through the Cangrow AI program.
-
 I'm currently exploring new opportunities where I can apply my experience to impactful, innovative AI projects — and continue learning and growing in a collaborative environment.
 
 
