@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://ir.linkedin.com/in/pouria-nazemi-811206125
   - icon: custom/cv
-    url: uploads/resume.pdf
+    url: uploads/tech-resume.pdf
 
 interests:
   - Artificial Intelligence
@@ -65,7 +65,7 @@ education:
       GPA: 19.75/20.00
       
 work:
-  - position: SRE Engineer
+  - position: AI/Site Reliabilty Engineer
     company_name: Part Software Group
     company_url: 'https://www.partsoftware.com'
     company_logo: ''
@@ -73,9 +73,9 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Monitoring infrastructure and ensuring system reliability
-      - Expert in Linux and Docker and Monitoring Tools
-      - Collaborating with the AIOPS and Anomaly Detection of netflow sub-team
+      - Developed and maintained monitoring infrastructure and automation tools to support system reliability and observability.
+      - Contributed to an intelligent NOC system leveraging LLMs to simulate engineer workflows, providing automated fix suggestions, incident detection, and historical analysis reports, enhancing operational efficiency.
+      - Mentored and instructed students for the Cangrow Data Science course, teaching machine learning fundamentals and guiding final student projects integrating classical ML and LLMs.  
   - position: Data Scientist / Research Internship
     company_name: Neurosina Company
     company_url: 'https://www.linkedin.com/company/neurosina/'
@@ -83,8 +83,7 @@ work:
     date_start: 2023-07-01
     date_end: '2023-10-01'
     summary: |
-      - Processed and analyzed biosignal data and developed a model to detect seizures from
-      biosignals captured by the Empatica E4 wristband.
+      - Designed and implemented a real-time seizure detection pipeline using multimodal biosignals from wearable devices, improving detection accuracy while reducing false alarms.
       - Resulted in one DRAFT (available in projects tab)
   - position: Data Scientist
     company_name: Pelekan Company
@@ -111,42 +110,82 @@ work:
       - Compiler Design X 2
       - Advanced Programming(Java) X 1
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+# # Skills
+# # Add your own SVG icons to `assets/media/icons/`
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Programming Languages
+#         description: 'C, Java, Python, Bash'
+#         icon: code-bracket
+#       - name: Machine Learning
+#         description: 'Scikit-learn, TensorFlow, PyTorch, Keras, Transformers, Hugging Face'
+#         # percent: 90
+#         icon: chart-bar
+#       # - name: Deep Learning
+#       #   # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
+#       #   # percent: 90
+#       #   icon: chart-bar
+#       # - name: Data Sciense
+#       #   # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
+#       #   # percent: 90
+#       #   icon: chart-bar
+#       # - name: NLP
+#       #   # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
+#       #   # percent: 90
+#       #   icon: chart-bar
+#       - name: Tools/Libraries
+#         description: 'Git, Docker, ML and DL libraries, LaTeX'
+#         # percent: 85
+#         # icon: tools
+#       - name: Operating Systems
+#         description: 'Debian-Based distros of GNU/Linux'
+#         # percent: 70
+#         # icon: server
+#       - name: Other
+#         description: 'Monitoring Stack (TPG), Django, Rest API'
+#         # percent: 75
+#         # icon: tools
+
 skills:
   - name: Technical Skills
     items:
       - name: Programming Languages
-        description: 'C, Java, Python, Bash'
+        description: 'Python, Java, C, Bash'
         icon: code-bracket
-      - name: Machine Learning
-        description: 'Deep Learning, Signal Processing, NLP, Classification and Clustering, Data Science'
-        # percent: 90
+
+      - name: Machine Learning & AI
+        description: 'Scikit-learn, TensorFlow, PyTorch, Keras, Transformers, Hugging Face, XGBoost'
         icon: chart-bar
-      # - name: Deep Learning
-      #   # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
-      #   # percent: 90
-      #   icon: chart-bar
-      # - name: Data Sciense
-      #   # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
-      #   # percent: 90
-      #   icon: chart-bar
-      # - name: NLP
-      #   # description: 'Neural Networks (CNN, RNN), Signal Processing, NLP, Classification and Clustering, Data Science'
-      #   # percent: 90
-      #   icon: chart-bar
-      - name: Tools/Libraries
-        description: 'Git, Docker, ML and DL libraries, LaTeX'
-        # percent: 85
-        # icon: tools
+
+      - name: NLP & Language Models
+        description: 'LLMs, Prompt Engineering, RAG, Text Classification, LangChain, Hazm, NLTK, OCR'
+        icon: language
+
+      - name: Data Science & Visualization
+        description: 'Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Time-Series, Signal Processing, Feature Engineering'
+        icon: presentation-chart-line
+
+      - name: Vector Search & Retrieval
+        description: 'FAISS, ChromaDB, Elasticsearch, OpenSearch'
+        icon: database
+
+      - name: Tools & Libraries
+        description: 'Git, Docker, Flask, LaTeX, ML/DL Libraries'
+        icon: tools
+
+      - name: Infrastructure & Monitoring
+        description: 'Prometheus, Grafana, Kibana, Opensearch'
+        icon: eye
+
+      - name: Backend & APIs
+        description: 'Django, REST APIs'
+        icon: server
+
       - name: Operating Systems
-        description: 'Debian-Based distros of GNU/Linux'
-        # percent: 70
-        # icon: server
-      - name: Other
-        description: 'Monitoring Stack (TPG), Django, Rest API'
-        # percent: 75
-        # icon: tools
+        description: 'Debian-based GNU/Linux distros'
+        icon: computer-desktop
+
 
 
 # languages:
@@ -202,6 +241,24 @@ awards:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 ## About Me
-I’m a BSc student at Ferdowsi University of Mashhad, currently ranked 3rd in my class, with a strong focus on AI, ML, and Software Engineering. My research includes working on seizure detection using biosignals from the Empatica E4 at Neurosina and classifying Persian documents through OCR, which combines my interests in technology and language.
 
-In addition to my academic work, I’m an SRE Engineer at Part Software Group, where I ensure infrastructure reliability, and a Data Scientist at Pelekan Company, applying ML for sales prediction and invoice analysis. I’m also passionate about teaching, having served as a TA in courses like AI and Compiler Design, and mentoring high school students through the Cangrow AI program. I’m excited to continue my education and explore new opportunities.
+I'm a recent graduate in Computer Science from Ferdowsi University of Mashhad with a strong academic and hands-on background in artificial intelligence and machine learning. My work bridges applied research and real-world development, with experience building intelligent systems across domains such as healthcare, network monitoring, and document analysis.
+
+I’ve contributed to research projects like seizure detection using wearable biosignals at Neurosina and Persian document classification through OCR and language models. In industry, I’ve worked at Part Software Group as a Site Reliability Engineer, helping develop intelligent monitoring tools and leading efforts in anomaly detection. I’ve also applied machine learning to business analytics and sales forecasting at Pelekan Company.
+
+Alongside technical work, I’ve been actively involved in teaching and mentorship — serving as a teaching assistant in AI and Linear Algebra, and mentoring students through the Cangrow AI program.
+
+I'm currently exploring new opportunities where I can apply my experience to impactful, innovative AI projects — and continue learning and growing in a collaborative environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
