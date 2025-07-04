@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://ir.linkedin.com/in/pouria-nazemi-811206125
   - icon: custom/cv
-    url: uploads/tech-resume.pdf
+    url: uploads/Tech-Resume.pdf
 
 interests:
   - Artificial Intelligence
